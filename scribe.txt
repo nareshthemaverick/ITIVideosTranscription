@@ -1,0 +1,11 @@
+00:00:00.250 - Speaker 1
+To one and zero to root Y-X-Y into Dy DX Solution given that I is equal to the double integral zero to one and zero to root Y-X-Y into integrating equation one with respect to X.
+
+00:00:21.350 - Speaker 1
+We get by applying the limits for X and Simplifying. We get this implies I is equal to one by two into integral of zero to one y square into Dy.
+
+00:00:49.310 - Speaker 1
+Integrating equation two with respect to Y. We get by applying the limits for Y and Simplifying we get the same price. 
+
+00:01:19.690 - Speaker 1
+I is equal to one by six. Evolve the double integral zero to a and zero to root of a square minus X square D y into DX.
